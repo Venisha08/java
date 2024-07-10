@@ -5,5 +5,7 @@ public class Customer {
         System.out.println("hi");
         bank manager=new bank();
         manager.deposite();
+        manager.enquire();
+        manager.withdraw();
     }
 }
