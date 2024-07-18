@@ -19,4 +19,12 @@ public class Sanjay_Extends_Venisha {
     protected void DoYoga(){
         System.out.println("ffcgfdfdz");
     }
+    void gardening()
+    {
+       System.out.println("gardening");
+    }
+    private void changeATM()
+    {
+       System.out.println("changeatm");
+    }
 }

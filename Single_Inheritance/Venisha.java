@@ -6,15 +6,15 @@ public class Venisha {
     protected String petname = "gowsi";
     private void changeATM()
     {
-
+       System.out.println("changeatm");
     }
     void gardening()
     {
-
+       System.out.println("gardening");
     }
     protected void DoYoga()
     {
-        System.out.println("ffcgfdfdz");
+        System.out.println("doyoga");
     }
     public  void act()
     {
