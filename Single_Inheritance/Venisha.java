@@ -14,7 +14,7 @@ public class Venisha {
     }
     protected void DoYoga()
     {
-
+        System.out.println("ffcgfdfdz");
     }
     public  void act()
     {
