@@ -1,6 +1,6 @@
 package MethodOverloading;
 
-public class Customer {
+ class Customer {
     public static void main(String[] args)
      {
         Customer Sathish = new Customer();
